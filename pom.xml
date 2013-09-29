@@ -20,8 +20,14 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>gnu.prolog</groupId>
+            <groupId>fr.catsoft</groupId>
+            <artifactId>commun</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>tu.prolog</groupId>
             <artifactId>prolog</artifactId>
+            <version>2.7.2</version>
         </dependency>
     </dependencies>
 
